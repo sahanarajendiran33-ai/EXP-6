@@ -95,7 +95,7 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 
 ### Displacement vs output voltage (positive and negative directions)
 
-<img width="472" height="417" alt="Screenshot 2026-11-23 204528" src="https://github.com/user-attachments/assets/ed086465-10b9-42d1-9c6c-4b91ad597e3e" />
+<img width="472" height="417" alt="Screenshot 2026-11-23 204528" src="https://github.com/user-attachments/assets/ed086465-10b9-42d1-9c6c-4b91ad597e3e" />   
 <img width="503" height="432" alt="Screenshot 2026-11-23 204544" src="https://github.com/user-attachments/assets/8855f54a-0462-4d20-846d-fdd115814819" />
 
 **Figure 4:** LVDT characteristics
