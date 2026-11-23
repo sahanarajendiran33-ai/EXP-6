@@ -74,19 +74,14 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 
 **Input voltage Vin = ______ V      Frequency f = ______ Hz      Null voltage = ______ V**
 
-### A. Positive displacement of core
+## A. Positive displacement of core   
+<img width="447" height="438" alt="Screenshot 2026-11-23 204512" src="https://github.com/user-attachments/assets/28701766-268d-4a9e-b373-7ecf87d21b8f" />  
 
-<img width="447" height="438" alt="Screenshot 2026-11-23 204512" src="https://github.com/user-attachments/assets/28701766-268d-4a9e-b373-7ecf87d21b8f" />
 
-
-### B. Negative displacement of core
-
-| S. No. | Displacement x (mm) | Output voltage Vo (V) |
-<img width="452" height="412" alt="Screenshot 2026-11-23 204520" src="https://github.com/user-attachments/assets/eac2d253-ca77-4c3e-9de0-753a906fb347" />
-
+### B. Negative displacement of core  
+<img width="452" height="412" alt="Screenshot 2026-11-23 204520" src="https://github.com/user-attachments/assets/eac2d253-ca77-4c3e-9de0-753a906fb347" />  
 
 ## FORMULA
-
 - **Sensitivity S = ΔVo / Δx (V/mm)**
 
 ΔVo – change in output voltage; Δx – corresponding change in core displacement.
@@ -94,8 +89,9 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 ## MODEL GRAPH
 
 ### Displacement vs output voltage (positive and negative directions)
-A. Positive Displacement vs Output Voltage
-<img width="472" height="417" alt="Screenshot 2026-11-23 204528" src="https://github.com/user-attachments/assets/ed086465-10b9-42d1-9c6c-4b91ad597e3e" />   
+
+A. Positive Displacement vs Output Voltage   
+<img width="472" height="417" alt="Screenshot 2026-11-23 204528" src="https://github.com/user-attachments/assets/ed086465-10b9-42d1-9c6c-4b91ad597e3e" />     
 
 B. Negative Displacement vs Output Voltage:  
 <img width="503" height="432" alt="Screenshot 2026-11-23 204544" src="https://github.com/user-attachments/assets/8855f54a-0462-4d20-846d-fdd115814819" />
