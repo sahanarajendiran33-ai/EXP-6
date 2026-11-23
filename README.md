@@ -47,7 +47,8 @@ In practice, a small residual voltage is observed at the null position due to ca
 
 ## CIRCUIT DIAGRAM
 
-*[ Insert the LVDT construction / circuit diagram here ]*
+<img width="675" height="612" alt="Screenshot 2026-11-23 204449" src="https://github.com/user-attachments/assets/a7d23c84-c6a9-41eb-942f-69c190a10b38" />
+
 
 **Figure 1:** LVDT – construction and circuit diagram
 
@@ -57,13 +58,15 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 
 ### A. Positive displacement of core
 
-*[ Paste the Virtual Lab screenshot – positive displacement ]*
+<img width="832" height="307" alt="Screenshot 2026-11-23 204457" src="https://github.com/user-attachments/assets/657f5d16-8aff-4320-88dc-1c5679b1d4a1" />
+
 
 **Figure 2:** Virtual Lab – positive displacement of core
 
 ### B. Negative displacement of core
 
-*[ Paste the Virtual Lab screenshot – negative displacement ]*
+<img width="830" height="340" alt="Screenshot 2026-11-23 204505" src="https://github.com/user-attachments/assets/8b724eda-e43e-447c-881b-5df3b9ac5e23" />
+
 
 **Figure 3:** Virtual Lab – negative displacement of core
 
@@ -73,33 +76,14 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 
 ### A. Positive displacement of core
 
-| S. No. | Displacement x (mm) | Output voltage Vo (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
+<img width="447" height="438" alt="Screenshot 2026-11-23 204512" src="https://github.com/user-attachments/assets/28701766-268d-4a9e-b373-7ecf87d21b8f" />
+
 
 ### B. Negative displacement of core
 
 | S. No. | Displacement x (mm) | Output voltage Vo (V) |
-|:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
+<img width="452" height="412" alt="Screenshot 2026-11-23 204520" src="https://github.com/user-attachments/assets/eac2d253-ca77-4c3e-9de0-753a906fb347" />
+
 
 ## FORMULA
 
@@ -111,7 +95,8 @@ Paste screenshots from the Virtual Lab showing the input voltage and frequency s
 
 ### Displacement vs output voltage (positive and negative directions)
 
-*[ Paste / draw the displacement vs output voltage graph here ]*
+<img width="472" height="417" alt="Screenshot 2026-11-23 204528" src="https://github.com/user-attachments/assets/ed086465-10b9-42d1-9c6c-4b91ad597e3e" />
+<img width="503" height="432" alt="Screenshot 2026-11-23 204544" src="https://github.com/user-attachments/assets/8855f54a-0462-4d20-846d-fdd115814819" />
 
 **Figure 4:** LVDT characteristics
 
